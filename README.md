@@ -1,2 +1,2 @@
 # NetGarage-Writeups
-Learning pwn :(
+This is my process on learning pwn :( maybe some wu seem overkill or unintended solution :)
