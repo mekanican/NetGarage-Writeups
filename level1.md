@@ -29,6 +29,7 @@ Enter the 3 digit passcode to enter: 123
 
 We need to guess 3 number to pass in the program (there's only 999 possibilities but ...)
 ![actually...](https://i.imgur.com/RUdPyQP.jpeg)
+
 Instead, we can reverse engineering this binary and find the correct answer :v
 
 The tool I will use is radare2:
